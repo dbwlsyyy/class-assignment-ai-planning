@@ -1,0 +1,4 @@
+- main_all_hard.py : 하드 제약 + 사전 검사 및 진단 CSV 저장
+- main_soft.py : 일부 조건(전년도 같은 반 금지)을 소프트 제약으로 완화
+- main_no_prev.py : 전년도 조건 제외
+- main_soft_name_penalty.py : 추가 제약조건 (동명이인 분리)
